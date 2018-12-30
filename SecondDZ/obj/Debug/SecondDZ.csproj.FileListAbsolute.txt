@@ -1,0 +1,14 @@
+C:\Users\ww\source\repos\SecondDZ\SecondDZ\bin\Debug\SecondDZ.exe.config
+C:\Users\ww\source\repos\SecondDZ\SecondDZ\bin\Debug\SecondDZ.exe
+C:\Users\ww\source\repos\SecondDZ\SecondDZ\bin\Debug\SecondDZ.pdb
+C:\Users\ww\source\repos\SecondDZ\SecondDZ\obj\Debug\SecondDZ.csprojResolveAssemblyReference.cache
+C:\Users\ww\source\repos\SecondDZ\SecondDZ\obj\Debug\SecondDZ.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos\SecondDZ\SecondDZ\obj\Debug\SecondDZ.exe
+C:\Users\ww\source\repos\SecondDZ\SecondDZ\obj\Debug\SecondDZ.pdb
+C:\Users\ww\source\repos\Basics\SecondDZ\bin\Debug\SecondDZ.exe.config
+C:\Users\ww\source\repos\Basics\SecondDZ\bin\Debug\SecondDZ.exe
+C:\Users\ww\source\repos\Basics\SecondDZ\bin\Debug\SecondDZ.pdb
+C:\Users\ww\source\repos\Basics\SecondDZ\obj\Debug\SecondDZ.csprojResolveAssemblyReference.cache
+C:\Users\ww\source\repos\Basics\SecondDZ\obj\Debug\SecondDZ.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos\Basics\SecondDZ\obj\Debug\SecondDZ.exe
+C:\Users\ww\source\repos\Basics\SecondDZ\obj\Debug\SecondDZ.pdb
